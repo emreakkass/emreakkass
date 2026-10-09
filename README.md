@@ -51,11 +51,11 @@
 
 - 📈 **TradeAI - Borsa ve Trading Platformu**  
   *Simüle edilmiş piyasa verileri, AI destekli sinyal tarayıcı, haber duygu analizi ve sanal portföy yönetimi içeren full-stack bir platform. Ön yüz React ile, API Express 5 ile, veri PostgreSQL ve Drizzle ORM ile yönetiliyor. API sözleşmesi OpenAPI ile tanımlanıp istemci kodu otomatik üretiliyor.*  
-  `React` `Express` `TypeScript` `PostgreSQL` `Tailwind CSS` `OpenAI`
+  `React` `Express` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
-- 🗓️ **Planora - Öğrenci Planlama Uygulaması** *(geliştirme devam ediyor)*  
+- 🗓️ **Planora - Öğrenci Planlama Uygulaması**
   *Öğrenciler için ders, görev ve çalışma planlama uygulaması. Pomodoro sayacı, çalışma istatistikleri, haftalık rapor ve PWA desteği içeriyor.*  
-  `React` `JavaScript` `Tailwind CSS` `Replit`
+   `React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Recharts` `Vitest` `PWA`
 
 - 🚗 **Araç Servis ve Kiralama Otomasyonu**  
   *ASP.NET ve MVC mimarisi kullanılarak araç servis süreçleri ve kiralama operasyonlarını yöneten otomasyon sistemi.*  
