@@ -1,7 +1,7 @@
 # Merhaba, Ben Emre Akkaş 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=500&lines=Bilgisayar+M%C3%BChendisi;Front End+%26+.NET+Developer;React+%7C+Express+%7C+ASP.NET+Core+%7C+MSSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=500&lines=Bilgisayar+M%C3%BChendisi;Front+End+%26+.NET+Developer;React+%7C+Express+%7C+ASP.NET+Core+%7C+MSSQL" alt="Typing SVG" />
 </p>
 
 ---
